@@ -1,5 +1,6 @@
 # Markdown notes
 
+
 Headings
 
 # Heading level 1
@@ -12,19 +13,69 @@ use three '#'
 use six '#'
 
 # TEXT
-**Bold** - word or text should be started and ended with '*'
+**Bold** 
 
-*italic* - word or text should be started and ended with '**'
+*italic* - 
 
->blockqoute - - word or text should be started with '<'
+>blockqoute - 
 
-1. Ordered list should start with numbers '1.'
-2. Ordered list should continue with numbers '2., 3.,...'
+1. Ordered list 
+2. Ordered list 
 
-* Unordered list can start with '*'
-- or with '-'
+* Unordered list 
+- Unordered list 
 
-`text` - word or text should be started and ended with '`'
+`code` 
 
-~~canceled~~ - word or text should be started and ended with '~~'
+~~canceled~~ 
 
+## Horizontal rule '---'
+---
+
+### Link
+
+[Geekbrains.ru](https://gb.ru/)
+
+### Smile Image
+
+![Smile](https://www.transparentpng.com/thumb/smile/gGsgum-emoji-feliz-png-emoticon-smile-clipart-full-size.png)
+
+
+
+### Table
+
+| Name | Surname |
+| ----------- | ----------- |
+| Abdukhamid | Davurov |
+| DAVUROV| Abdukhamid |
+
+### Fenced Code Block
+
+```
+{
+  "FirstName": "Abdukhamid",
+  "LastName": "Davurov",
+  "Age": 32
+}
+```
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+___
+
+### Definition List
+
+term
+: definition
+
+---
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+---
