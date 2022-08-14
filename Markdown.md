@@ -79,3 +79,7 @@ term
 - [ ] Update the website
 - [ ] Contact the media
 ---
+
+
+# Creating a new branch
+To create a new branch we use command "git branch "branch name""
