@@ -1,3 +1,5 @@
+# New barnch info
+
 # Markdown notes
 
 
@@ -83,3 +85,7 @@ term
 
 # Creating a new branch
 To create a new branch we use command "git branch "branch name""
+
+# to list branches
+Use command "git branch" to list all branches. Your current branch will be green colored.
+"git branch -a" will list all branches, also in retome
