@@ -1,3 +1,5 @@
+# Git branch ifo
+
 # Markdown notes
 
 
@@ -83,3 +85,6 @@ term
 
 # Creating a new branch
 To create a new branch we use command "git branch "branch name""
+
+# To change through branches
+To change branches use command "git branch "branch name""
