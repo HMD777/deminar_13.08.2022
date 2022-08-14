@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # New barnch info
+=======
+# Git branch ifo
+>>>>>>> e370447ccff81344bee69e40bb3f2f6df76c5002
 
 # Markdown notes
 
@@ -86,6 +90,11 @@ term
 # Creating a new branch
 To create a new branch we use command "git branch "branch name""
 
+<<<<<<< HEAD
 # to list branches
 Use command "git branch" to list all branches. Your current branch will be green colored.
 "git branch -a" will list all branches, also in retome
+=======
+# To change through branches
+To change branches use command "git branch "branch name""
+>>>>>>> e370447ccff81344bee69e40bb3f2f6df76c5002
